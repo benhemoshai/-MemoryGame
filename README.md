@@ -2,6 +2,10 @@
 
 **Memory Game** is a console-based C# application that demonstrates object-oriented programming (OOP) and a clean separation between game logic and user interface (UI). This project emphasizes code organization and best practices in C# development.
 
+## Preview
+
+![MemoryGame Preview](./preview.gif)
+
 ## Overview
 
 The project is structured to maintain a clear distinction between the core game logic and the console-based UI. Players can choose between two gameplay modes: playing against another player or challenging the computer. The game showcases strong OOP principles and is written in C# with a focus on maintainable, scalable code.
