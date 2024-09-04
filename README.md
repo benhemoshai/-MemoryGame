@@ -23,15 +23,15 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-   \```bash
+   ```bash
    git clone https://github.com/your-username/memory-game.git
-   \```
+   ```
 
 2. Navigate to the project directory:
 
-   \```bash
+   ```bash
    cd memory-game
-   \```
+   ```
 
 3. Build and run the solution using your preferred C# IDE (e.g., Visual Studio or Visual Studio Code).
 
