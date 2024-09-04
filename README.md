@@ -24,16 +24,17 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/memory-game.git
+   git clone https://github.com/benhemoshai/MemoryGame.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd memory-game
+   cd MemoryGame
    ```
+3. **Right-click** on the `MemoryGameUI` project and select **"Set as Startup Project"** to ensure the console UI runs correctly.
 
-3. Build and run the solution using your preferred C# IDE (e.g., Visual Studio or Visual Studio Code).
+4. Build and run the solution using your preferred C# IDE (e.g., Visual Studio or Visual Studio Code).
 
 ## Project Structure
 
