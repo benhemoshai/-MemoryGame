@@ -4,7 +4,7 @@
 
 ## Preview
 
-![MemoryGame Preview](./preview.gif)
+![MemoryGame Preview](./memorygame.gif)
 
 ## Overview
 
